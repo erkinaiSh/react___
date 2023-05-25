@@ -1,0 +1,12 @@
+.btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  flex: 0 0 60%;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}

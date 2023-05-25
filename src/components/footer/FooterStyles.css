@@ -1,0 +1,28 @@
+.footer {
+  width: 100%;
+  padding: 2rem 0;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background: none; /* Remove the background */
+}
+
+
+.text {
+  display: flex;
+  align-items: center;
+}
+
+.footer h3 {
+  color: var(--primary-light);
+}

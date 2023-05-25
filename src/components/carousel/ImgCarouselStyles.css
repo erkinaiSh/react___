@@ -1,0 +1,19 @@
+.container {
+  padding: 3rem 0;
+}
+
+.carousel img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.hbold {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .hbold {
+    font-size: 24px; /* Adjust the font size for mobile */
+  }
+}
